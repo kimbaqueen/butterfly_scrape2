@@ -1,0 +1,15 @@
+name: scrape_butterflies
+channels:
+  - conda-forge
+dependencies:
+  - beautifulsoup4
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - plotly=5.10.0
+  - python=3.9
+  - requests
+  - scipy
+  - seaborn
